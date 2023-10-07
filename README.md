@@ -15,9 +15,8 @@ Repository for HW 03 from the course: INFO 523 - Data Mining and Discovery taugh
    - A Google Collab project
    
 ### 2. View the R/Python Exercise 3 content:
-   If Using R: found [here](https://gchism94.github.io/EDA_In_R_Book/).
-   If Using Python: found [here](https://gchism94.github.io/EDA_In_Python_Book/)
-   - *Focus on the last three pages*
+   If Using R: found [here]([https://gchism94.github.io/EDA_In_R_Book/](https://datamineaz.org/slides/week6/rexercise3)) and [here](https://datamineaz.org/slides/week6/rexercise3_1) 
+   If Using Python: found [here](https://datamineaz.org/python/classificationpython) 
    
 ### 3. Reproduce the exercise in a new Quarto Document or Jupyter Notebook with a novel dataset from the [tidytuesday repository 2023 datasets](https://github.com/rfordatascience/tidytuesday/tree/master/data/2023)
   - Hint: Quarto can render a document into a Jupyter Notebook. I recommend just using Quarto unless you're using Google Collab. See tutorial documentation on available formats [here]([https://posit.cloud/](https://quarto.org/docs/output-formats/all-formats.html)https://quarto.org/docs/output-formats/all-formats.html).
