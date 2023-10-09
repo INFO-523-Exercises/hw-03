@@ -28,10 +28,10 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
 - Narrative: `[_ / 4 points]`
 - Feedback: [Insert feedback here.]
 
-### Fitting classification models: `[_ / 20 points]`
+### Fitting classification models: `[_ / 22 points]`
 
   - Correct application: `[_ / 16]`
-  - Narrative `[_ / 4]`
+  - Narrative `[_ / 6]`
   - Feedback: [Insert feedback here.]
 
 
@@ -47,10 +47,10 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
   - Narrative: `[_ / 5]`
   - Feedback: [Insert feedback here.]
 
-### Comparing decision boundaries: `[_ / 30 points]`
+### Comparing decision boundaries: `[_ / 28 points]`
 
   - Correct application: `[_ / 18]`
-  - Narrative: `[_ / 12]`
+  - Narrative: `[_ / 10]`
   - Feedback: [Insert feedback here.]
 
 
